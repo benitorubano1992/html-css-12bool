@@ -1,0 +1,48 @@
+
+body {
+    color:white;
+}
+/*  *container di prova*/
+.wrapper{
+    
+    
+    border:1px solid white;
+}
+/* colonna di prova */
+.col-prova{
+    background-color:#006cfa;
+    border:1px solid white;
+    height:50px;
+}
+/* box di prova */
+.box {
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    height:100%;
+}
+/* section-five */
+.container-box{
+    width:95%;
+    margin:0 auto;
+    background-color: #00e165;;
+    border:1px solid black;
+    height:35px;
+}
+.col-box{
+    height:100%;
+}
+
+.row-box{
+    height:100%;
+}
+.box-inside{
+    border-left:2px solid #006cfa;
+    border-right:2px solid #006cfa;
+}
+.follow-section{
+    margin-top:1rem;
+}
+.container-wrapper-title{
+    color:black;
+}
